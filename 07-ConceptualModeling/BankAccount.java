@@ -1,4 +1,4 @@
-class BankAccount {
+public class BankAccount {
 
     private String owner_name;
     private int owner_age;
